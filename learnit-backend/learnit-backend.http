@@ -1,0 +1,6 @@
+@learnit_backend_HostAddress = http://localhost:5110
+
+GET {{learnit_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
